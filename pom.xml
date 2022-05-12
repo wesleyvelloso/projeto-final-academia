@@ -14,7 +14,7 @@
 	<name>academia-digital</name>
 	<description>Tutorial API RESTful modelando sistema de academia de ginástica</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
