@@ -1,5 +1,5 @@
 ## [Projeto Base](https://github.com/cami-la/academia-digital) Disponibilizado por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
-## [Clique aqui para acessar pelo Heroku!](https://academia-digital-wes.herokuapp.com/swagger-ui/index.html#/)
+## [Clique aqui para acessar pelo Heroku!](https://academia-digital-wes.herokuapp.com/swagger-ui/index.html#/) 🚀
 
 ## Para acessar localmente:
 1. Clone este repositório;
@@ -7,7 +7,7 @@
 3. Execute a aplicação (certifique-se de que nenhum outro processo esteja rodando na porta 8080);
 4. Abra no navegador: http://localhost:8080/swagger-ui/index.html#/
 
-## Modificações
+## Modificações 📝
 - Adicionei a dependência do **swagger-ui**, para documentar e acessar as operações CRUD. Assim não é necessário utilizar o Postman, já que o swagger será carregado no navegador.
 
 - Implementei para a entidade **Aluno**:
